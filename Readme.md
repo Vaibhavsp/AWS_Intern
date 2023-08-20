@@ -1,4 +1,4 @@
-**##Project Description: Face Recognition using AWS Services (S3, AWS Lambda, Amazon Rekognition)##**
+**Project Description: Face Recognition using AWS Services (S3, AWS Lambda, Amazon Rekognition)**
 
 Welcome to the "Face Recognition using AWS Services" project repository! This project showcases the seamless integration of Amazon Web Services (AWS) technologies to create an innovative and efficient facial recognition solution. By leveraging AWS S3 for image storage, AWS Lambda for event-driven processing, and Amazon Rekognition for advanced face analysis, this project sets the stage for secure identity verification and streamlined access control.
 
